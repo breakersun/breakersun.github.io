@@ -11,6 +11,10 @@ seo:
 
 Create a new file name with the format `YYYY-MM-DD-title.md` then put it into `_post` of the root directory.
 
+
+
+![image-20191227154011928](2019-08-08-write-a-new-post.assets/image-20191227154011928.png)
+
 ## Front Matter
 
 Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-matter/) as below at the top of the post:

@@ -5,6 +5,7 @@ categories: [Blogging, Tutorial]
 tags: [writting]
 seo:
   date_modified: 2019-12-27 15:41:10 +0800
+typora-root-url: ..\assets\img\post1
 ---
 
 ## Naming and Path
@@ -13,7 +14,9 @@ Create a new file name with the format `YYYY-MM-DD-title.md` then put it into `_
 
 
 
-![image-20191227154011928](2019-08-08-write-a-new-post.assets/image-20191227154011928.png)
+![image-20191227155607919](/../../../_posts/2019-08-08-write-a-new-post.assets/image-20191227155607919.png)
+
+
 
 ## Front Matter
 

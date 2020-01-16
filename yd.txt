@@ -1,4 +1,5 @@
 超高清 4K,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+超高清 4K,http://120.233.115.38/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CCTV 1,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV 2,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV 3,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
@@ -38,4 +39,4 @@ CGTN,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
 四川卫视,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000295001.m3u8
 辽宁卫视,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8
 重庆卫视,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
-安徽卫视,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
+安徽卫视,http://120.221.180.164/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8

@@ -58,6 +58,7 @@ CCTV 17,http://121.31.30.91:8081/ysten-business/live/cctv-17/1.m3u8
 
 
 卫视,#genre#
+湖南卫视HD,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 东方卫视,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000292403.m3u8
 黑龙江卫视,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000293903.m3u8
 广东卫视,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000292703.m3u8
@@ -81,6 +82,7 @@ CCTV 17,http://121.31.30.91:8081/ysten-business/live/cctv-17/1.m3u8
 重庆卫视,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000297803.m3u8
 安徽卫视,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/2000298003.m3u8
 
+湖南卫视HD,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 东方卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000292403.m3u8
 黑龙江卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000293903.m3u8
 广东卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000292703.m3u8
